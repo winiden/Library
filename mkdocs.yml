@@ -1,0 +1,12 @@
+site_name: Function Library & Snippets
+site_url: https://winiden.github.io/Library
+nav:
+    - Home: index.md
+    - DAX: DAX/DAX-statements.md
+    - Excel: excel/excel-functions.md
+    - Power BI: pbi-functions.md
+    - Power Query: pq-functions.md
+    - Misc: misc/misc.md
+
+
+theme: readthedocs
