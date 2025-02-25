@@ -1,5 +1,6 @@
 site_name: 'Function Library & Snippets'
-site_url: 'https://winiden.github.io/Library'
+site_description: 'A custom functions library'
+site_author: 'Win Iden'
 docs_dir: docs/
 repo_name: 'winiden/library'
 repo_url: 'https://github.com/winiden/Library'
