@@ -8,8 +8,8 @@ nav:
     - Home: index.md
     - DAX: DAX/DAX-statements.md
     - Excel: excel/excel-functions.md
-    - Power BI: pbi-functions.md
-    - Power Query: pq-functions.md
+    - Power BI: powerbi/pbi-functions.md
+    - Power Query: powerquery/pq-functions.md
     - Misc: misc/misc.md
 
 theme:
