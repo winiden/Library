@@ -1,5 +1,8 @@
-site_name: Function Library & Snippets
-site_url: https://winiden.github.io/Library
+site_name: 'Function Library & Snippets'
+site_url: 'https://winiden.github.io/Library'
+docs_dir: docs/
+repo_name: 'winiden/library'
+repo_url: 'https://github.com/winiden/Library'
 nav:
     - Home: index.md
     - DAX: DAX/DAX-statements.md
@@ -8,5 +11,5 @@ nav:
     - Power Query: pq-functions.md
     - Misc: misc/misc.md
 
-
-theme: readthedocs
+theme:
+  name: 'material'
